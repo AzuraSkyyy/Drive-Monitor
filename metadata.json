@@ -1,0 +1,6 @@
+{
+  "name": "DriveWatch: Real-Time Folder Monitor",
+  "description": "Monitor Google Drive folders in real-time. Stay updated with a live feed of changes without modifying any files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
